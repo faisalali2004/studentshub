@@ -1,0 +1,48 @@
+body {
+  background-color: #f0f5f5;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+header {
+  background-color: #2e8b57;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+h1, h2 {
+  color: #2e8b57;
+}
+
+.country-container {
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+button {
+  background-color: #2e8b57;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+
+button:hover {
+  background-color: #3cb371;
+}
+
+a:hover {
+  color: #3cb371;
+}
