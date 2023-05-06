@@ -1,0 +1,32 @@
+/* Set the background color to light green */
+body {
+    background-color: #cdeacd;
+  }
+  
+  /* Set the text color to a darker green */
+  body, th, td {
+    color: #006400;
+  }
+  
+  /* Set the link color to a shade of green */
+  a {
+    color: #32cd32;
+  }
+  
+  /* Style the table */
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  th {
+    background-color: #32cd32;
+    color: white;
+  }
+  

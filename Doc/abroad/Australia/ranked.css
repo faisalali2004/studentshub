@@ -1,0 +1,33 @@
+body {
+    background-color: #e5ffe5;
+  }
+  
+  h1 {
+    color: #006600;
+  }
+  
+  nav a {
+    color: #006600;
+  }
+  
+  ul li h3 {
+    color: #006600;
+  }
+  
+  ul li p {
+    color: #336633;
+  }
+  
+  button {
+    background-color: #006600;
+    color: #ffffff;
+    border: none;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #336633;
+  }
+  

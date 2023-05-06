@@ -1,0 +1,56 @@
+/* Change the background color to a light green */
+body {
+    background-color: #e6f1e6;
+  }
+  
+  /* Change the font to a sans-serif font */
+  body, h1, h2, p, a {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+  
+  /* Center the header and adjust its background color */
+  header {
+    text-align: center;
+    background-color: #2b7d2b;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  /* Adjust the color and size of the header text */
+  header a {
+    color: #fff;
+    font-size: 1.5em;
+  }
+  
+  /* Add a border to the header link */
+  header a {
+    border-bottom: 1px solid #fff;
+  }
+  
+  /* Adjust the size and color of the h1 and h2 text */
+  h1, h2 {
+    color: #2b7d2b;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+  }
+  
+  /* Adjust the color and size of the paragraph text */
+  p {
+    color: #333;
+    font-size: 1.1em;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  
+  /* Adjust the color and size of the anchor text */
+  a {
+    color: #2b7d2b;
+    font-size: 1.1em;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect to the anchor text */
+  a:hover {
+    text-decoration: underline;
+  }
+  

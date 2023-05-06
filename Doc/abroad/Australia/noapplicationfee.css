@@ -1,0 +1,34 @@
+/* Set the body background color to a light green */
+body {
+    background-color: #d9f1e8;
+  }
+  
+  /* Style the table headers with a darker green background */
+  thead th {
+    background-color: #7dc88b;
+    color: white;
+    padding: 10px;
+  }
+  
+  /* Alternate row colors for readability */
+  tbody tr:nth-child(odd) {
+    background-color: #f0fff0;
+  }
+  
+  /* Style the table cells */
+  td {
+    padding: 10px;
+  }
+  
+  /* Style the links in the navigation */
+  nav a {
+    color: #7dc88b;
+    text-decoration: none;
+    padding: 10px;
+  }
+  
+  nav a:hover {
+    background-color: #7dc88b;
+    color: white;
+  }
+  

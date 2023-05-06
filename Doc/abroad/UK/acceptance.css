@@ -1,0 +1,50 @@
+/* Set the background color of the body to light green */
+body {
+    background-color: #c3ddb3;
+  }
+  
+  /* Set the font color of the body to dark green */
+  body {
+    color: #006400;
+  }
+  
+  /* Style the header and navigation links */
+  header {
+    background-color: #006400;
+    color: #ffffff;
+    padding: 10px;
+  }
+  
+  nav a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Style the table headers and rows */
+  table {
+    border-collapse: collapse;
+    margin: 20px;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #006400;
+    color: #ffffff;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #d9ead3;
+  }
+  
+  tr:nth-child(odd) {
+    background-color: #f7f7f7;
+  }
+  

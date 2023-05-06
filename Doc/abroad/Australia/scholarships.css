@@ -1,0 +1,70 @@
+/* Set background color to light green */
+body {
+    background-color: #d5f5e3;
+  }
+  
+  /* Set header and navigation styles */
+  header {
+    background-color: #2ecc71;
+    padding: 20px;
+    color: white;
+    text-align: center;
+  }
+  
+  nav a {
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+    padding: 10px;
+  }
+  
+  nav a:hover {
+    background-color: white;
+    color: #2ecc71;
+  }
+  
+  /* Set heading styles */
+  h1 {
+    color: #2ecc71;
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  h3 {
+    color: #2ecc71;
+    margin-top: 20px;
+  }
+  
+  /* Set paragraph styles */
+  p {
+    color: #333;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  /* Set button styles */
+  button {
+    background-color: #2ecc71;
+    border: none;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #27ae60;
+  }
+  
+  /* Set link styles */
+  a {
+    color: #2ecc71;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #27ae60;
+  }
+  

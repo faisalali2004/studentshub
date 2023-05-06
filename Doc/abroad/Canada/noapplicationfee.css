@@ -1,0 +1,42 @@
+/* body background */
+body {
+    background-color: #f7fff5;
+  }
+  
+  /* header styles */
+  header {
+    background-color: #86c995;
+    color: white;
+    padding: 10px;
+  }
+  
+  /* navigation link styles */
+  nav a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  /* table styles */
+  table {
+    border-collapse: collapse;
+    margin: 20px auto;
+  }
+  
+  th, td {
+    padding: 10px;
+    border: 1px solid #86c995;
+  }
+  
+  th {
+    background-color: #86c995;
+    color: white;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #d7f0e9;
+  }
+  
+  tr:hover {
+    background-color: #a7d6af;
+  }
+  
