@@ -1,0 +1,44 @@
+body {
+    background-color: #f2f2f2; /* Set the background color */
+  }
+  
+  table {
+    border-collapse: collapse; /* Remove borders between table cells */
+    width: 100%;
+    margin-top: 20px;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  th {
+    background-color: #4CAF50; /* Set the background color for table headers */
+    color: white; /* Set the font color for table headers */
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2; /* Set the background color for even rows */
+  }
+  
+  tr:hover {
+    background-color: #ddd; /* Set the background color for rows on hover */
+  }
+  
+  td:first-child {
+    font-weight: bold; /* Bold the first column */
+  }
+  
+  td:last-child {
+    font-weight: bold; /* Bold the last column */
+  }
+  
+  nav a {
+    color: #4CAF50; /* Set the font color for navigation links */
+    text-decoration: none; /* Remove the underline from navigation links */
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 20px;
+  }
+  

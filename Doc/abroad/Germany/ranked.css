@@ -1,0 +1,53 @@
+body {
+    background-color: #e6ffe6; /* light green background */
+    font-family: Arial, sans-serif; /* set font family */
+  }
+  
+  nav a {
+    color: #006600; /* dark green link color */
+    text-decoration: none; /* remove underline */
+  }
+  
+  h1 {
+    color: #003300; /* dark green header color */
+    text-align: center; /* center the header */
+  }
+  
+  ul {
+    list-style-type: none; /* remove bullet points */
+    margin: 0; /* remove default margin */
+    padding: 0; /* remove default padding */
+  }
+  
+  li {
+    padding: 20px; /* add padding to list items */
+    border-bottom: 1px solid #cccccc; /* add border to separate list items */
+  }
+  
+  li:hover {
+    background-color: #ccffcc; /* light green background on hover */
+  }
+  
+  h3 {
+    color: #006600; /* dark green heading color */
+  }
+  
+  p {
+    color: #333333; /* dark gray paragraph color */
+  }
+  
+  button {
+    background-color: #006600; /* dark green button background */
+    color: white; /* white button text */
+    border: none; /* remove button border */
+    padding: 10px 20px; /* add padding to button */
+    border-radius: 5px; /* round button corners */
+    font-weight: bold; /* make button text bold */
+    margin-top: 10px; /* add space between button and paragraph */
+  }
+  
+  button:hover {
+    background-color: #33cc33; /* lighter green button background on hover */
+    cursor: pointer; /* change cursor to hand on hover */
+  }
+  
